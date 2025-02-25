@@ -103,5 +103,5 @@ c.pourcentageConnexiteTaille()
 c.seuil(15)
 
 ######### 10.0 - Détermination du seuil de forte connexité #########
-c.representationGraphiqueSeuil()
+g.representationGraphiqueSeuil()
  
