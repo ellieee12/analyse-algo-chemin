@@ -10,7 +10,7 @@ Réalisé par l'équipe B3.
 
 Responsable : M. Lacen GRANHAM
 
-**[Sujet](/Sujet.pdf)** | **[Permalien code source](https://gitlab.info.iut-tlse3.fr/lbg3215a/s2.02-algo)** | **[Permalien rapport](/Rapport_de_S202)**
+**[Sujet](/Sujet.pdf)** | **[Permalien rapport](/Rapport_de_S202)**
 
 ## Installation
 
