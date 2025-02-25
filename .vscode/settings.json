@@ -1,0 +1,6 @@
+{
+  "conventionalCommits.scopes": [
+    "requirements"
+  ],
+  "vscord.enabled": false
+}
